@@ -83,7 +83,7 @@ public class TareaFelipeBrenes1 {
         if (edad<=5){
             System.out.println("Segun su edad, usted pertenece a la primera infancia.");
         }else if (edad<=11){
-            System.out.println("Segund su edad, usted pertenece a la infancia.");
+            System.out.println("Segun su edad, usted pertenece a la infancia.");
         }else if (edad<=18){
             System.out.println("Segun su edad, usted pertenece a la adolescencia.");
         }else if (edad<=30){
